@@ -16,3 +16,21 @@ This repository aims to support the security community by providing a centralize
 
 .com
 
+## 🆕 Tycoon 2FA Infrastructure Updates
+
+### 📅 April 2025
+- 🔐 Introduced **Base64 encoding** to obfuscate the full path of phishing URLs.
+
+### 📅 May 2025
+- 🛡️ Integrated **AES encryption** within the codebase.
+- 🌐 All **subdomains** now redirect victims to the phishing page.
+
+### 📅 June 2025
+- 🧠 Enhanced logic: only subdomains with a **length greater than 2** trigger redirection.  
+  🔗 [Twitter Post](https://x.com/RacWatchin8872/status/1933911867090767886)
+
+- 🔄 Switched from **AES** to **RC4 encryption** for improved evasion techniques.  
+  🔗 [Twitter Post](https://x.com/RacWatchin8872/status/1933911867090767886)
+
+- 🔁 Switched from **RC4** back to **AES encryption**.  
+  🔗 [Twitter Post](https://x.com/RacWatchin8872/status/1935343135665832146)
