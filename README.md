@@ -18,6 +18,8 @@ This repository aims to support the security community by providing a centralize
 
 - .sa.com
 
+- .co.za
+
 - .live
 
 ## 🆕 Tycoon 2FA Infrastructure Updates
