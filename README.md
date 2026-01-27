@@ -44,7 +44,7 @@ This repository aims to support the security community by providing a centralize
 
 - .web.id
 
--.ceo
+- .ceo
 
 ## 🆕 Tycoon 2FA Infrastructure Updates
 
