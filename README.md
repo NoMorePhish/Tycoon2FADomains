@@ -50,6 +50,8 @@ This repository aims to support the security community by providing a centralize
 
 - .work
 
+- .works
+
 - .us
 
 ## 🆕 Tycoon 2FA Infrastructure Updates
