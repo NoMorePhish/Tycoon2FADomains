@@ -52,6 +52,8 @@ This repository aims to support the security community by providing a centralize
 
 - .works
 
+- .com.co
+
 - .us
 
 ## 🆕 Tycoon 2FA Infrastructure Updates
