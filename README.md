@@ -66,6 +66,14 @@ This repository aims to support the security community by providing a centralize
 
 - .one
 
+- .sarl
+
+- .insecure
+
+- .ink
+
+- .autos
+
 ## 🆕 Tycoon 2FA Infrastructure Updates
 
 ### 📅 April 2025
