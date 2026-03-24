@@ -76,6 +76,10 @@ This repository aims to support the security community by providing a centralize
 
 - .insure
 
+- .vision
+
+- .business
+
 ## 🆕 Tycoon 2FA Infrastructure Updates
 
 ### 📅 April 2025
