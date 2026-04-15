@@ -100,5 +100,5 @@ This repository aims to support the security community by providing a centralize
   🔗 [Twitter Post](https://x.com/RacWatchin8872/status/1935343135665832146)
 
 - 🔁 Switched from **Cloudflare** to **Colocrossing**.
-  🧠 **Phishing Page** Placed directly on the **Primary Domain**
+  🧠 **Phishing Page** Placed directly on the **Primary Domain**.  
   🔗 [Twitter Post](https://x.com/RacWatchin8872/status/2044553704750166489)
