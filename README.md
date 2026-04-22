@@ -1,6 +1,6 @@
 # Tycoon2FA Malicious Domains Tracker
 
-A curated list of malicious domains used in the **Tycoon 2FA** Phishing Campaign. 
+A curated list of malicious domains and subdomains used in the **Tycoon 2FA** Phishing Campaign. 
 This repository aims to support the security community by providing a centralized location for tracking and analyzing domains used in these attacks.
 
 ## 🚨 About Tycoon 2FA
